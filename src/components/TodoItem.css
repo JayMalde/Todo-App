@@ -1,0 +1,10 @@
+.root{
+    display: flex;
+    align-items: center;
+}
+.content{
+    flex: 1;
+}
+.striked{
+    text-decoration: line-through;
+}
